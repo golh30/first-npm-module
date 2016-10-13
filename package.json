@@ -1,6 +1,6 @@
 {
   "name": "first-npm-module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"first npm module\"",
   "main": "src/index.js",
   "scripts": {
